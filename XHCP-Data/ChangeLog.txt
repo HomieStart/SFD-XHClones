@@ -1,0 +1,9 @@
+XHCP v1.4: - Add Reduce Energy for make a clone (Anti-Bad Players)
+	   - Now by Default, Shared items is now Active
+	   - Clones of Independent Team, now Not Move and not Attack you
+	   - On The End Game, Other Clones do disolved.
+	   - Other Details
+
+XHCP v1.3: more optimal and add a few small details 
+
+XHCP v1.2: Versión exported of the script for can make Clones in You Game!
